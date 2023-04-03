@@ -19,7 +19,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-~~~<html>
+~~~
+<html>
 <head>
 <title> samplewebpage </title>
 </head>
@@ -40,10 +41,11 @@
 <li>Electrical & Electronics Engineering</li>
 <li>Mechanical Engineering</li>
 </head>
-</html>~~~
+</html>
+~~~
 
 ##OUTPUT
-![Screenshot (24)](https://user-images.githubusercontent.com/127817032/229420017-73995253-37a7-4431-a3f2-345be3d1c688.png)
+![EX NO 02](https://user-images.githubusercontent.com/127817032/229420411-831e7120-b075-4716-a803-848e1285aa95.png)
 
 
 ## RESULT
