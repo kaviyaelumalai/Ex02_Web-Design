@@ -43,7 +43,9 @@
 </html>~~~
 
 ## OUTPUT
-![WhatsApp Image 2023-04-02 at 8 11 12 PM](https://user-images.githubusercontent.com/127817032/229418448-ebf3120d-8e41-42a2-aacd-ad63b42ca00b.jpeg)
+![EX NO 02](https://user-images.githubusercontent.com/127817032/229419839-80f00b3a-25a2-4401-9e24-785e2e2f79dd.png)
+
+
 
 ## RESULT
   List of Departments in an Institution is created successfully.
