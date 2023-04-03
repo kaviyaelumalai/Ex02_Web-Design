@@ -42,9 +42,8 @@
 </head>
 </html>~~~
 
-## OUTPUT
-![EX NO 02](https://user-images.githubusercontent.com/127817032/229419839-80f00b3a-25a2-4401-9e24-785e2e2f79dd.png)
-
+##OUTPUT
+![Screenshot (24)](https://user-images.githubusercontent.com/127817032/229420017-73995253-37a7-4431-a3f2-345be3d1c688.png)
 
 
 ## RESULT
